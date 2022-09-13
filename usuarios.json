@@ -1,0 +1,17 @@
+{
+    "usuario01": {
+        "id": 123456789,
+        "nome": "Helio",
+        "email": "helio@gmail.com"
+    },
+    "usuario02": {
+        "id": 987654321,
+        "nome": "Haruo",
+        "email": "haruo@gmail.com"
+    },
+    "usuario03": {
+        "id": 654987321,
+        "nome": "Takamori",
+        "email": "takamori@gmail.com"
+    }
+}
